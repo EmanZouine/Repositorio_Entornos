@@ -18,4 +18,12 @@ public class OperaArray {
             System.out.println(numero + ", ");
         }
     }
+
+    public void sumarArry(){
+        int suma = 0;
+        for (int numero:numeros) {
+            suma+=numero;
+        }
+        System.out.println("Suma de los números es de: " + suma);
+    }
 }
