@@ -18,7 +18,7 @@ public class OperaArray {
             System.out.println(numero + ", ");
         }
     }
-
+    
     public void sumarArry(){
         int suma = 0;
         for (int numero:numeros) {
@@ -27,7 +27,12 @@ public class OperaArray {
         System.out.println("Suma de los números es de: " + suma);
     }
     
+<<<<<<< HEAD
     public void nuevometodo2(){
         System.out.println("Ejemplo de método 2");
+=======
+    public void nuevometodo1(){
+        System.out.println("Ejemplo de método 1 ");
+>>>>>>> bb81a9a0db9d5104e33ee8ae364d7a37c4d91d8c
     }
 }
