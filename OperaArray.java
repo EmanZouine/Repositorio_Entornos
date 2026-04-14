@@ -26,4 +26,8 @@ public class OperaArray {
         }
         System.out.println("Suma de los números es de: " + suma);
     }
+    
+    public void nuevometodo2(){
+        System.out.println("Ejemplo de método 2");
+    }
 }
