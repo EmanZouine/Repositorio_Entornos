@@ -12,4 +12,10 @@ public class OperaArray {
         }
         return this.numeros;
     }
+
+    public void imprimirArray(){
+        for (int numero:this.numeros) {
+            System.out.println(numero + ", ");
+        }
+    }
 }
