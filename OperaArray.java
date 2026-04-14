@@ -18,4 +18,8 @@ public class OperaArray {
             System.out.println(numero + ", ");
         }
     }
+
+    public void nuevometodo1(){
+        System.out.println("Ejemplo de método 1 ");
+    }
 }
