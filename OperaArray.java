@@ -35,4 +35,5 @@ public class OperaArray {
         System.out.println("Ejemplo de método 1 ");
 >>>>>>> bb81a9a0db9d5104e33ee8ae364d7a37c4d91d8c
     }
+/*ejemplo de modificacion*/
 }
